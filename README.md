@@ -1,6 +1,14 @@
 # wora-app
 An App that **Write Once, Run Anywhere**(_WORA_).
 
+Supported Platforms:
+1. Web
+1. Android
+1. Ios
+1. Windows
+1. Linux
+1. Mac
+
 ## Install
 
 Requirement: Node.js(v8.x is recommended)
