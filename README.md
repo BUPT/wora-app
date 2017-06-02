@@ -1,3 +1,26 @@
+# wora-app
+An App that Write Once, Run Anywhere(WORA).
+
+## Install
+
+```shell
+npm install -g cordova ionic
+
+git clone https://github.com/BUPT-CAD/wora-app.git
+
+```
+
+## Build
+
+## Run
+
+
+## Resources
+
+1. [Get started with Ionic Framework](http://ionicframework.com/getting-started/)
+
+# From Ionic Template
+
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
 ## How to use this template
