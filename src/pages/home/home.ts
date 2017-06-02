@@ -13,7 +13,12 @@ import { parseString } from 'xml2js'
 })
 export class HomePage {
   // We proxied rssUrl to http://bbs.cloud.icybee.cn/rss/
-  private readonly rssUrl = '/rss/board-Picture'
+
+  // for `ionic serve`
+  // private readonly rssUrl = '/rss/board-Picture'
+
+  // for `electron .`
+  private readonly rssUrl = 'http://bbs.cloud.icybee.cn/rss/board-Picture'
 
   public posts: Object[] = []
 

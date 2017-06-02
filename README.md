@@ -1,9 +1,9 @@
 # wora-app
-An App that Write Once, Run Anywhere(WORA).
+An App that **Write Once, Run Anywhere**(_WORA_).
 
 ## Install
 
-Node v8.x & Npm v5.x
+Requirement: Node.js
 
 ```shell
 
