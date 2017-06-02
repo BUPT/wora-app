@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
 
 import { Http }     from '@angular/http';
-import { Observable } from 'rxjs/Rx';
+// import { Observable } from 'rxjs/Rx';
 import 'rxjs/add/operator/map';
 
 import { parseString } from 'xml2js'

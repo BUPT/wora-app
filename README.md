@@ -3,7 +3,7 @@ An App that **Write Once, Run Anywhere**(_WORA_).
 
 ## Install
 
-Requirement: Node.js
+Requirement: Node.js(v8.x is recommended)
 
 ```shell
 
