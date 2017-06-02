@@ -1,5 +1,11 @@
 {
   "name": "wora",
   "app_id": "",
-  "type": "ionic-angular"
+  "type": "ionic-angular",
+  "proxies": [
+    {
+      "path": "/rss",
+      "proxyUrl": "http://bbs.cloud.icybee.cn/rss"
+    }
+  ]
 }

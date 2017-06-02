@@ -3,16 +3,54 @@ An App that Write Once, Run Anywhere(WORA).
 
 ## Install
 
+Node v8.x & Npm v5.x
+
 ```shell
+
 npm install -g cordova ionic
 
 git clone https://github.com/BUPT-CAD/wora-app.git
+cd wora-app
+npm install
+```
 
+## Run
+
+### Web
+
+```shell
+ionic serve
+```
+
+### Android
+
+```shell
+```
+
+### Ios
+
+```shell
+```
+
+### Win32
+
+```shell
+```
+
+### Linux
+
+```shell
+```
+
+### Mac
+
+```shell
 ```
 
 ## Build
 
-## Run
+```shell
+```
 
 
 ## Resources
