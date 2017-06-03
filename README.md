@@ -2,12 +2,12 @@
 An App that **Write Once, Run Anywhere**(_WORA_).
 
 Supported Platforms:
-1. Web
 1. Android
 1. Ios
-1. Windows
 1. Linux
 1. Mac
+1. Win32
+1. Web
 
 Google Slide: [ROAD TO SUCCESS - TO BECAME A FULL STACK DEV](https://docs.google.com/presentation/d/15ZrF5rrqN9ax4LOIEYLHQLitqDBpSIC52Sz5c195K9k/edit?usp=sharing)
 
