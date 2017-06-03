@@ -9,6 +9,8 @@ Supported Platforms:
 1. Linux
 1. Mac
 
+Google Slide: [ROAD TO SUCCESS - TO BECAME A FULL STACK DEV](https://docs.google.com/presentation/d/15ZrF5rrqN9ax4LOIEYLHQLitqDBpSIC52Sz5c195K9k/edit?usp=sharing)
+
 ## Install
 
 Requirement: Node.js(v8.x is recommended)
