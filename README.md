@@ -1,7 +1,7 @@
 # wora-app
 An App that **Write Once, Run Anywhere**(_WORA_).
 
-![Write Once Run Anywhrere](https://bupt-cad.github.io/images/one-does-not-simply-write-once-run-anywhere.jpg "Write Once Run Anywhere")
+![Write Once Run Anywhrere](https://bupt-cad.github.io/wora-app/images/one-does-not-simply-write-once-run-anywhere.jpg "Write Once Run Anywhere")
 
 Supported Platforms:
 1. Android
