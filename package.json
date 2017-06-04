@@ -14,7 +14,7 @@
         "electron": "electron .",
         "electron:darwin": "electron-packager . --ignore='/^(?!www).*/' --platform=darwin --arch=x64 --asar --out=dist/ --overwrite",
         "electron:linux": "electron-packager . --ignore='/^(?!www).*/' --platform=linux --arch=x64 --asar --out=dist/ --overwrite",
-        "electron:win32": "electron-packager . --ignore='/^(?!www).*/' --platform=win32 --arch=x64 --asar --out=dist/ --overwrite",
+        "electron:win32": "electron-packager . --ignore=\"/^(?!www).*/\" --platform=win32 --arch=x64 --asar --out=dist/ --overwrite",
         "lint": "ionic-app-scripts lint",
         "ionic:build": "ionic-app-scripts build",
         "ionic:serve": "ionic-app-scripts serve"
