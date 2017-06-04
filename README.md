@@ -21,7 +21,7 @@ Requirement: Node.js(v8.x is recommended)
 
 npm install -g cordova ionic
 
-git clone https://github.com/BUPT-CAD/wora-app.git
+git clone https://github.com/BUPT/wora-app.git
 cd wora-app
 npm install
 ```
