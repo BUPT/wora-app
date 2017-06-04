@@ -11,7 +11,7 @@
         "clean": "ionic-app-scripts clean",
         "build": "ionic-app-scripts build",
         "dist": "npm run build && npm run dist:linux",
-        "dist:darwin": "electron-packager . --ignore=\"/^(?!www).*/\" --platform=darwin --arch=x64 --asar --out=dist/ --overwrite",
+        "dist:darwin": "electron-packager . --ignore='/^(?!www).*/' --platform=darwin --arch=x64 --asar --out=dist/ --overwrite",
         "dist:linux": "electron-packager . --ignore='/^(?!www).*/' --platform=linux --arch=x64 --asar --out=dist/ --overwrite",
         "dist:win32": "electron-packager . --ignore=\"/^(?!www).*/\" --platform=win32 --arch=x64 --asar --out=dist/ --overwrite",
         "lint": "ionic-app-scripts lint",
