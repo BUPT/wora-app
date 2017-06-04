@@ -6,13 +6,23 @@
 
 <ion-content padding>
 
-<ion-card *ngFor="let post of posts">
+<!-- ion-card *ngFor="let post of posts">
 
   <ion-card-content
     [innerHTML]="post.description"
   >
   </ion-card-content>
 
-</ion-card>
+</ion-card -->
+
+<ion-list>
+  <button
+    ion-item
+    *ngFor="let film of (films | async)?.results"
+    (click)="openDetails(film)"
+  >
+    {{ film.title }}
+  </button>
+</ion-list>
 
 </ion-content>
