@@ -1,7 +1,7 @@
 # wora-app
-An App that **Write Once, Run Anywhere**(_WORA_).
+Full Stack Dev Starter: An App that **Write Once, Run Anywhere**(_WORA_).
 
-![Write Once Run Anywhrere](https://bupt-cad.github.io/wora-app/images/one-does-not-simply-write-once-run-anywhere.jpg "Write Once Run Anywhere")
+![Write Once Run Anywhrere](https://bupt.github.io/wora-app/images/one-does-not-simply-write-once-run-anywhere.jpg "Write Once Run Anywhere")
 
 Supported Platforms:
 1. Android
@@ -72,3 +72,10 @@ npm run ionic:serve
 ## Resources
 
 1. [Get started with Ionic Framework](http://ionicframework.com/getting-started/)
+
+# Copyright & License
+
+* Code & Docs © 2017 Huan LI \<zixia@zixia.net\>
+* Code released under the Apache-2.0 License
+* Docs released under Creative Commons
+
