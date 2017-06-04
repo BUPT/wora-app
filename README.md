@@ -45,21 +45,21 @@ ionic cordova run ios
 ### Linux
 
 ```shell
-npm run dist:linux
+npm run electron:linux
 ./dist/wora-app-linux-x64/wora-app
 ```
 
 ### Mac
 
 ```shell
-npm run dist:darwin
-./dist/wora-app-darwin-x64/wora-app.app
+npm run electron:darwin
+./dist/wora-app-darwin-x64/wora-app
 ```
 
 ### Win32
 
 ```shell
-npm run dist:win32
+npm run electron:win32
 dist\wora-app-win32-x64\wora-app.exe
 ```
 
