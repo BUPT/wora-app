@@ -18,7 +18,7 @@ Google Slide: [ROAD TO SUCCESS - TO BECAME A FULL STACK DEV](https://docs.google
 
 ## Install
 
-Requirement: Node.js(v8.x is recommended)
+Requirement: Node.js(v8 or above is recommended)
 
 ```shell
 
